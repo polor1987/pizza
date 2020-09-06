@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    font-family: monospace;
+}
+
+main {
+    background: url(photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 110px;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+#btn {
+    margin: 10px;
+}
+
+#recette {
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+h3 {
+    color: whitesmoke;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
+}
+
+#date {
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px whitesmoke;
+}
+
+input {
+    width: 95px;
+    border-radius: 5px;
+    font-size: 3vh;
+}
